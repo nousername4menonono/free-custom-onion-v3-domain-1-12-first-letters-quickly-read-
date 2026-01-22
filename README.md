@@ -1,11 +1,11 @@
 # free-custom-onion-v3-domain-1-12-first-letters-quickly-read-
 Generate domain for free on our website
 
-  Onion link "generator": http://prefixt4bvtrheq2qh2spdasbv6reezqwicv5eflcm3dzqq6f62iv5yd.onion/
+    http://prefixt4bvtrheq2qh2spdasbv6reezqwicv5eflcm3dzqq6f62iv5yd.onion/
   
-                                                   Fill form: "wanted prefix", Wait for your e-mail or Etc
-                                                   You will recieve your free keys, And you can shoose
-                                                   To use Telegram or discord (Much faster)
+                                                  
+                                                   
+ Fill form: "wanted prefix", Wait for your e-mail or Etc-You will recieve your free keys, And you can shoose-To use Telegram or discord (Much faster)
 
 You can see the link here also have a custom prefix onion v3 address starting with "prefix" its easy to use after you created your website 
 to use the key you generated and you only take the information generated and create three text files and save them with secret_key & public_name also the hostname file containing onion address.
